@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'n Jack 👋
+
+I am a disturbance ecologist and environmental data scientist, and currently a PhD candidate in the [James lab](https://www.jameslab.ca/) and the [Fortin lab](https://fortin.eeb.utoronto.ca/) at the University of Toronto.
 
 <!--
 **jackagoldman/jackagoldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
