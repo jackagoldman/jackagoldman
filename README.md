@@ -2,7 +2,7 @@
 
 I am a disturbance ecologist and environmental data scientist, and currently a PhD candidate in the [James lab](https://www.jameslab.ca/) and the [Fortin lab](https://fortin.eeb.utoronto.ca/) at the University of Toronto.
 
-My PhD research is mostly thinking about how climate change and insect disturbance affect wildfire burn severity in the boreal forest.
+My PhD research is mostly thinking about how climate change and insect disturbance affect wildfire burn severity in the boreal forest. :fire: :bug: 
 
 You can learn more about me and my various research projects [here](jackagoldman.github.io)
 
