@@ -6,7 +6,7 @@ My PhD research is mostly thinking about how climate change 🥵 and insect dist
 
 I am passioante about open and reproducible science. On my GitHub are all the projects I am currently working on, as well as past research projects.
 
-You can learn more about me and my various research projects [here](jackagoldman.github.io)
+You can learn more about me and my various research projects [here](https://jackagoldman.github.io/)
 
 <!--
 **jackagoldman/jackagoldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
