@@ -1,4 +1,4 @@
-### Hi I'n Jack 👋
+### Hi I'm Jack 👋
 
 I am a disturbance ecologist and environmental data scientist, and currently a PhD candidate in the [James lab](https://www.jameslab.ca/) and the [Fortin lab](https://fortin.eeb.utoronto.ca/) at the University of Toronto.
 
